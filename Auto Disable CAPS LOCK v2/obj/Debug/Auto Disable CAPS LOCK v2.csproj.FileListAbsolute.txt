@@ -1,0 +1,23 @@
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.exe
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.pdb
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csprojAssemblyReference.cache
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto_Disable_CAPS_LOCK_v2.Form1.resources
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto_Disable_CAPS_LOCK_v2.Properties.Resources.resources
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csproj.GenerateResource.cache
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csproj.CoreCompileInputs.cache
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.exe
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.pdb
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.exe.config
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\KeystrokeAPI.dll
+D:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csproj.CopyComplete
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.exe.config
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.exe
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\Auto Disable CAPS LOCK v2.pdb
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\bin\Debug\KeystrokeAPI.dll
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csprojAssemblyReference.cache
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto_Disable_CAPS_LOCK_v2.Form1.resources
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto_Disable_CAPS_LOCK_v2.Properties.Resources.resources
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csproj.GenerateResource.cache
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.csproj.CopyComplete
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.exe
+C:\Proyectos\Auto Disable CAPS LOCK v2\Auto Disable CAPS LOCK v2\obj\Debug\Auto Disable CAPS LOCK v2.pdb
